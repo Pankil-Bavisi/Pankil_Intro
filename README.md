@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pankil-Bavishi
-- 👀 I’m interested in AI/ML/Pythion Opportunities ...
-- 🌱 I’m currently learning AI/ML/Pthon ...
+- 👋 Hi, I’m @Pankil-Bavisi
+- 👀 Currently working on AI-ML Intern
+- 🌱 Always learning AI, ML, Python,DL,Data Science, Computer Vision...
 
 
 <!---
